@@ -1,6 +1,6 @@
 wget https://data.dundeecity.gov.uk/dataset/trees/resource/e54ef90a-76e5-415e-a272-5e489d9f5c67
 
-library (readr)
-
-ulfile="https://raw.githubusercontent.com/havaki/Assessment3/main/test%20dundee-trees.url"
-mydata<-read_csv(url(urlfile))
+import dundee-trees.url as pd
+import io
+import requests
+url="raw.githubusercontent.com/havaki/Assessment3/main/test%20dundee-trees.url" pd.read_csv(url)

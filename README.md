@@ -67,8 +67,7 @@ body {
 </div>
 
 <div class="navbar">
-  <a href="#">testing</a>
-      <a href="#">file:///C:/Users/dhchi/Downloads/cd%20pdf%20test.pdf"</a>
+  <a href="#">testing</a><a href="url">file:///C:/Users/dhchi/Downloads/cd%20pdf%20test.pdf"</a>
   <a href="#">Common Hawthorn</a> 
   <a href="#">Rowan</a>
   <a href="#">Whitebeam</a>

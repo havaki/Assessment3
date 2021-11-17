@@ -15,7 +15,7 @@ test done
 
 /* Style the body */
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial;
   margin: 0;
 }
 
@@ -30,6 +30,7 @@ body {
 /* Increase the font size of the heading */
 .header h1 {
   font-size: 50px;
+  color: white
 }
 
 /* Style the top navigation bar */
@@ -55,8 +56,8 @@ body {
   text-align: center;
   background: #ddd;
 
-
 }
+
 </style>
 </head>
 <body>
@@ -67,7 +68,8 @@ body {
 </div>
 
 <div class="navbar">
-  <a href="#">testing</a><content="file:///C:/Users/dhchi/Downloads/cd%20pdf%20test.pdf">
+  <a href="#">testing</a>
+      <a href="#">file:///C:/Users/dhchi/Downloads/cd%20pdf%20test.pdf"</a>
   <a href="#">Common Hawthorn</a> 
   <a href="#">Rowan</a>
   <a href="#">Whitebeam</a>
@@ -81,9 +83,6 @@ body {
     <h5>There are Common Hawthorns, Rowans, and Whitebeams.</h5>
   </div>
 </div>
-
-<meta property="og:title" content="Events &mdash; Bao Bag"/>
-<meta property="og:url" content="https://www.avasbaobag.com/new-events"/>
 
 </body>
 </html>
